@@ -3,7 +3,7 @@
 
 
 
-                                                         IMPORTANT NOTES 
+                                              IMPORTANT NOTES 
 
 1.) IntelliScript is an IT automation tool that takes advantage of HID support found in Arduino pro micros.
 
