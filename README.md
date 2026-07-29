@@ -11,8 +11,7 @@
 
 3.) If you use the BIOS hotkey function, keep the tool protected as it contains your BIOS password and should be handled as a sensitive asset.
 
-4.) HID struggles to work on Latitude 5420/ 5410 natively, the program works best on the Latitude 7400 
-
+4.) HID struggles to work on some BIOS versions natively; USB-C implementation in progress. 
 
 
 
