@@ -1,14 +1,15 @@
-# Gazint IntelliScript
+<h1 align="center">Gazint IntelliScript</h1>
 
 IntelliScript is a programmable input device built on an ATmega32U4. The ATmega32U4 provides native USB support, which allows the board to operate as Human Interface Device. Pressing a button on the device executes a preprogrammed sequence of administrative actions onto the workstation the device is connected to. 
 
 
+![IntelliScript reference build](https://github.com/Nicholas-Odeh/Gazint-IntelliScript/blob/main/Gazint-IntelliScript-V2/Images/Final_product.jpeg)
 
-![IntelliScript reference build](https://github.com/Nicholas-Odeh/Gazint-IntelliScript/tree/main/Gazint-IntelliScript-V2/Images)
 
 ---
 
-## Repository layout
+<h1 align="center">Repository layout</h1>
+
 
 | Folder | Contents | Comments |
 |---|---|---|
@@ -21,8 +22,8 @@ IntelliScript is a programmable input device built on an ATmega32U4. The ATmega3
 
 
 ---
+<h1 align="center">Hardware</h1>
 
-## Hardware
 
 ### Parts
 
@@ -50,9 +51,11 @@ IntelliScript is a programmable input device built on an ATmega32U4. The ATmega3
 **Buttons are active-HIGH.** So each button connects its pin to VCC when pressed and needs a pull-down
 resistor. Without that resistor, the pin floats.
 
+### Breadboard Visual
+![IntelliScript reference circuit](https://github.com/Nicholas-Odeh/Gazint-IntelliScript/blob/main/Gazint-IntelliScript-V2/Images/Circuit-layout.jpeg)
 ---
 
-## Safety and responsible use
+<h1 align="center">Safety and responsible use</h1>
 
 IntelliScript is a keystroke-injection device. The host cannot tell its input apart from a
 person typing on a real keyboard, and that has consequences worth understanding before you build
@@ -69,6 +72,7 @@ one.
 custody, and change control.
 
 ---
+<h1 align="center">Demo</h1>
 
-## Demo
+![IntelliScript demo](https://github.com/Nicholas-Odeh/Gazint-IntelliScript/blob/main/Gazint-IntelliScript-V2/Images/Gazint-Live-Demo.gif)
 
